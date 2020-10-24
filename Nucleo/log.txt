@@ -1,0 +1,64 @@
+2020-08-17 22:59:07 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro hacer Reverso
+2020-08-17 22:59:07 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro mayusculas
+2020-08-17 22:59:07 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro Espacios
+2020-08-17 22:59:07 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se presiono el boton filtrar
+2020-08-17 22:59:16 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro hacer Reverso
+2020-08-17 22:59:16 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro mayusculas
+2020-08-17 22:59:16 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro Espacios
+2020-08-17 22:59:16 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se presiono el boton filtrar
+2020-08-17 23:06:12 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro hacer Reverso
+2020-08-17 23:06:12 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro mayusculas
+2020-08-17 23:06:12 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro Espacios
+2020-08-17 23:06:12 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se presiono el boton filtrar
+2020-08-17 23:07:00 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro hacer Reverso
+2020-08-17 23:07:00 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro mayusculas
+2020-08-17 23:07:00 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro Espacios
+2020-08-17 23:07:00 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se presiono el boton filtrar
+2020-08-17 23:07:17 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro hacer Reverso
+2020-08-17 23:07:17 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro mayusculas
+2020-08-17 23:07:17 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro Espacios
+2020-08-17 23:07:17 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se presiono el boton filtrar
+2020-08-17 23:08:03 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro hacer Reverso
+2020-08-17 23:08:03 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro mayusculas
+2020-08-17 23:08:03 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro Espacios
+2020-08-17 23:08:03 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se presiono el boton filtrar
+2020-08-17 23:08:28 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro hacer Reverso
+2020-08-17 23:08:28 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro mayusculas
+2020-08-17 23:08:28 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro Espacios
+2020-08-17 23:08:28 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se presiono el boton filtrar
+2020-08-17 23:09:22 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro hacer Reverso
+2020-08-17 23:09:22 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro mayusculas
+2020-08-17 23:09:22 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se proceso el filtro Filtro Espacios
+2020-08-17 23:09:22 [AWT-EventQueue-0] pe.edu.unmsm.sistemas.nucleo.NucleoTopComponent.botonFiltroActionPerformed()
+INFO: Se presiono el boton filtrar

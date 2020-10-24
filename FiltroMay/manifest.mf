@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: pe.edu.unmsm.sistemas.filtromay
+OpenIDE-Module-Localizing-Bundle: pe/edu/unmsm/sistemas/filtromay/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
