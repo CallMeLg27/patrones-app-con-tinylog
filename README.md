@@ -11,8 +11,8 @@ Aplicación desarrollada en netbeans que toma texto como entrada y le aplica fil
 
 **Integrantes**:
 INTEGRANTES:
-1.Esquivel Grados, Luis Germán          17200154
-1.Fernandez Figueroa, Jose Alberto      17200220
-1.Gonzales Duran, Jefferson Ervyn       17200159
-1.Mas Bula Myrella, Alejandra           17200064
-1.Rospigliosi Pinedo, Jyoti Enrique     14200111 
+1. Esquivel Grados, Luis Germán          17200154
+1. Fernandez Figueroa, Jose Alberto      17200220
+1. Gonzales Duran, Jefferson Ervyn       17200159
+1. Mas Bula Myrella, Alejandra           17200064
+1. Rospigliosi Pinedo, Jyoti Enrique     14200111 
